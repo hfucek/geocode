@@ -18,5 +18,5 @@
             "Jcf\\Geocode": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
